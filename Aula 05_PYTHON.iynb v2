@@ -1,0 +1,4 @@
+numero = 1
+while numero <= 5:
+    print(f"Número: {numero}") # This line needs to be indented
+    numero += 1 # Incrementa a variável, This line needs to be indented as well
